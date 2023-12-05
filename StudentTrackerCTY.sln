@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentTrackerCTY.Web", "StudentTrackerCTY.Web\StudentTrackerCTY.Web.csproj", "{38BACDBA-5E82-413B-A321-9884F4256173}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentTrackerCTY.Data", "StudentTrackerCTY.Data\StudentTrackerCTY.Data.csproj", "{EA53A25F-11C5-4F98-968D-2AB44C1B16FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38BACDBA-5E82-413B-A321-9884F4256173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38BACDBA-5E82-413B-A321-9884F4256173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38BACDBA-5E82-413B-A321-9884F4256173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38BACDBA-5E82-413B-A321-9884F4256173}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA53A25F-11C5-4F98-968D-2AB44C1B16FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA53A25F-11C5-4F98-968D-2AB44C1B16FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA53A25F-11C5-4F98-968D-2AB44C1B16FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA53A25F-11C5-4F98-968D-2AB44C1B16FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {376C1510-35F2-4521-8EA3-20DC71FD40AF}
+	EndGlobalSection
+EndGlobal
